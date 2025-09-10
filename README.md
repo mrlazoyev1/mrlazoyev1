@@ -79,10 +79,10 @@
 ## 🌐 Contact Me
 
 <div align="center">
-  <a href="https://t.me/NodirOdilov">
+  <a href="https://t.me/aadilbekovich1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.linkedin.com/in/odilov-nodir">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:tuproqqalam@gmail.com">
