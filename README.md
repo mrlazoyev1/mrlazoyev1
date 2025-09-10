@@ -5,10 +5,10 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** IT Park Student
-🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
-🎓 **Fields I learn:** Python, Web Development, Cybersecurity  
-.
+💻 **Profession:** IT Park Student.
+🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future.  
+🎓 **Fields I learn:** Python, Web Development, Cybersecurity.  
+
 ---
 
 ## 🚀 Technologies & Skills
